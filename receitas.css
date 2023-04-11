@@ -1,0 +1,27 @@
+.container{
+    margin-top: 10px; 
+    display:flex;
+    flex-direction: row;
+    height: 680px;
+    overflow:auto;
+    height:max-content;
+    margin-left: 0;
+}
+.card{
+    display: flex;
+    margin-left: 15px;
+}  
+.caixa{
+    width: 200px;
+    background-color: #f9fad2;
+    padding: 10px;
+    text-align: left;
+    margin: 0 10px;
+}
+.caixa img{
+    width: 190px
+}
+h3{
+    text-align: center;
+
+}
